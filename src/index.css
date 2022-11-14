@@ -279,9 +279,9 @@ code {
   }
   .dropdownContent {
     position: absolute;
-    top: 33%;
+    top: 110%;
     transform: translateX(-10%);
-    width: 189px;
+    width: 200px;
     /* padding: 0.5rem; */
   }
 }
