@@ -284,13 +284,6 @@ code {
     width: 189px;
     /* padding: 0.5rem; */
   }
-  .cards {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(auto, 1fr);
-    grid-column-gap: 30px;
-    grid-row-gap: 30px;
-  }
 }
 
 @media (max-width: 490px) {
